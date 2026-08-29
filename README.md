@@ -22,10 +22,12 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anomaly-4rc&theme=react-dark&hide_border=true" width="100%" />
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.simpleanalytics.com/api?username=anomaly-4rc&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.simpleanalytics.com/api/top-langs/?username=anomaly-4rc&layout=compact&theme=tokyonight" width="45%" />
 </p>
+
 ___
 
 
