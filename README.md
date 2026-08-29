@@ -24,10 +24,10 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anomaly-4rc&show_icons=true&theme=radial&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anomaly-4rc&layout=compact&theme=radial&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anomaly-4rc&show_icons=true&theme=radial&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anomaly-4rc&layout=compact&theme=radial&hide_border=true" width="45%" />
 </p>
 
----
+___
 
 *“Curiosity is the engine of achievement.”* ☕
