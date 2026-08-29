@@ -22,10 +22,9 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.simpleanalytics.com/api?username=anomaly-4rc&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.simpleanalytics.com/api/top-langs/?username=anomaly-4rc&layout=compact&theme=tokyonight" width="45%" />
+### 📊 Profil Activity Card
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anomaly-4rc&theme=flat&no-frame=true&column=6" width="100%" />
 </p>
 
 ___
