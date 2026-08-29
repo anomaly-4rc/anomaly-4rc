@@ -22,15 +22,11 @@
 
 ---
 
-# ⚡ ANOMALY-4RC // LAB CONSOLE 🧪
-
-> **Electronics & Physical Science Explorer** | *Linux & Android Low-Level Tinkerer*
-
-```syslog
-[INFO]  Identity: Electronics & Hardware Enthusiast
-[INFO]  Interests: Quantum Mechanics ⚛️, Astrophysics 🌌, Circuitry 🔌
-[INFO]  Current Lab: Custom Kernel Experiments (x86_64 LoneLynx & Android CAF 4.19)
-[STATUS] Learning by doing. Breaking things to understand the logic.
++-------------------------------------------------------------+
+|  "If you want to find the secrets of the universe,          |
+|   think in terms of energy, frequency and vibration."       |
+|                                       - Nikola Tesla        |
++-------------------------------------------------------------+
 
 ___
 
