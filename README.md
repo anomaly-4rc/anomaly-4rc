@@ -22,10 +22,15 @@
 
 ---
 
-### 📊 Profil Activity Card
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anomaly-4rc&theme=flat&no-frame=true&column=6" width="100%" />
-</p>
+# ⚡ ANOMALY-4RC // LAB CONSOLE 🧪
+
+> **Electronics & Physical Science Explorer** | *Linux & Android Low-Level Tinkerer*
+
+```syslog
+[INFO]  Identity: Electronics & Hardware Enthusiast
+[INFO]  Interests: Quantum Mechanics ⚛️, Astrophysics 🌌, Circuitry 🔌
+[INFO]  Current Lab: Custom Kernel Experiments (x86_64 LoneLynx & Android CAF 4.19)
+[STATUS] Learning by doing. Breaking things to understand the logic.
 
 ___
 
