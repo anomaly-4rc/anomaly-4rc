@@ -13,6 +13,10 @@
 
 ---
 
+![Cat](image/d166a7fce1f2bdbe4da7f28748a767c3.jpg)
+
+---
+
 ### 🛠️ Tech Stack & Interest Areas
 ![Electronics](https://img.shields.io/badge/Electronics-Hardware-blue?style=for-the-badge&logo=microchip)
 ![Physics](https://img.shields.io/badge/Science-Physics-purple?style=for-the-badge)
