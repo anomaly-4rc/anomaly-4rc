@@ -9,6 +9,7 @@
 - ⚡ **Electronics & Hardware:** Passionate about circuits, signals, and understanding how stuff works under the hood.
 - 🌌 **Physics & Science:** Always curious about the universe—from quantum phenomena to astrophysics.
 - 🐧 **Kernel Tinkering:** Currently learning & experimenting with custom Linux kernels (x86_64) and Android CAF (4.19) for fun.
+- 📱 **Learn to create and develop APKs.**
 - 💡 **Mindset:** Just a curious learner who loves breaking things to understand the logic behind them!
 
 ---
